@@ -85,7 +85,6 @@ const ajay = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-automates&theme=tokyonight&background=0D1117&stroke=FF8C00&ring=FFA000&fire=FFD700&currStreakLabel=FF8C00&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-automates&layout=compact&theme=radical&title_color=FF8C00&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ajay-automates&theme=radical&title_color=FF8C00&text_color=ffffff&bg_color=0D1117&hide_border=true&combine_all_yearly_contributions=true" />
 
 <!-- Activity Graph representing AI compute cycles -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-automates&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FFD700&area=true&hide_border=true" width="98%"/>
