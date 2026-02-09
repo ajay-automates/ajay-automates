@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AJAY%20KUMAR%20REDDY%20NELAVETLA&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI+Engineer+%E2%80%A2+LLM+Specialist+%E2%80%A2+ML+Engineer;Building+Intelligent+Automation+Systems;RAG+%E2%80%A2+Agents+%E2%80%A2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI+Engineer+%E2%80%A2+LLM+Specialist+%E2%80%A2+AI/ML+Engineer;Building+Intelligent+Automation+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
