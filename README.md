@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajay-automates&color=ff8c00&style=for-the-badge&label=AI+CORE+ACCESS)
+![Profile Views](https://komarev.com/ghpvc/?username=ajay-automates&color=ff8c00&style=for-the-badge&label=PROFILE+VISITS)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajay-automates&query=$.public_repos&style=for-the-badge&label=NEURAL+REPOS&color=ffa000)
 ![Followers](https://img.shields.io/github/followers/ajay-automates?style=for-the-badge&color=ff8c00&label=NETWORK+NODES)
 ![Stars](https://img.shields.io/github/stars/ajay-automates?style=for-the-badge&color=ffd700&affiliations=OWNER&label=STREAK+STARS)
