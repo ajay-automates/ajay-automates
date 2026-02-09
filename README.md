@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AJAY%20KUMAR%20REDDY%20NELAVETLA&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%E2%80%A2+DevOps+Specialist;Building+Production+AI+Systems;Shipping+Fast+%E2%80%A2+Iterating+Faster+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI+Engineer+%E2%80%A2+LLM+Specialist+%E2%80%A2+ML+Engineer;Building+Intelligent+Automation+Systems;RAG+%E2%80%A2+Agents+%E2%80%A2+Fine-tuning+%E2%80%A2+Prompt+Engineering" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,67 +17,82 @@
 
 ---
 
-## 🚀 About Me
+## 🤖 About Me
 
 ```typescript
 const ajay = {
     name: "Ajay Kumar Reddy Nelavetla",
     alias: "AJ",
-    role: "DevOps Engineer → AI Engineer",
+    role: "AI Engineer & LLM Specialist",
     location: "Tampa, FL 🇺🇸",
-    company: "Ex-FolderWave (10K+ schools)",
+    background: "Ex-FolderWave (10K+ schools)",
     education: "MS Software Engineering - Northeastern University",
     
-    currentFocus: ["Production AI Systems", "Automation", "LLM Applications"],
+    aiExpertise: [
+        "Large Language Models (LLMs)",
+        "Retrieval Augmented Generation (RAG)",
+        "AI Agents & Agentic Workflows",
+        "Prompt Engineering & Optimization",
+        "Model Fine-tuning & Evaluation",
+        "Vector Databases & Embeddings",
+        "AI-Powered Automation"
+    ],
     
     building: {
-        "Job Application Automator": "92% accuracy MCP system",
-        "Social Media SaaS": "$29-199/month tiered pricing",
-        "AI Video Tools": "Instagram Reels automation"
+        "Job Application Automator": "92% accuracy AI agent with RAG",
+        "Social Media AI SaaS": "Multi-platform intelligent automation",
+        "AI Video Tools": "LLM-powered content generation"
     },
+    
+    aiStack: ["Claude", "GPT-4", "LangChain", "ChromaDB", "Pinecone", "FAISS"],
     
     motto: "Build fast. Ship faster. Iterate fastest.",
     
-    lifePhilosophy: "MVP > Perfection",
-    
-    workingOn: ["Y Combinator", "100xEngineers", "Omi Creator Program"]
+    currentFocus: ["AI Agents", "RAG Systems", "LLM Applications", "AI Automation"]
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ AI & Tech Stack
 
 <div align="center">
+
+### 🤖 AI/ML & LLMs
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### 🧠 Vector Databases & RAG
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 AI & ML
-![Anthropic](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### 🔧 AI Tools & Automation
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### ☁️ DevOps & Cloud
+### ☁️ Infrastructure & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🔧 APIs & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-3368FF?style=for-the-badge&logo=twilio&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -100,39 +115,39 @@ const ajay = {
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured AI Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
+| Project | Description | AI/ML Tech | Status |
 |---------|-------------|------------|--------|
-| 🤖 **[Job Application Automator](https://github.com/ajay-automates/job-application-automator)** | Intelligent MCP system with 92% accuracy | Python, FastAPI, Playwright, Claude API | ⚡ Active |
-| 📱 **[Social Media Automator](https://github.com/ajay-automates/social-media-automator)** | Multi-platform automation with tiered pricing | Node.js, Supabase, Railway, Meta API | 🚀 Launched |
-| 🎭 **Interactive Avatar System** | Real-time conversational AI avatars | Tavus CVI, WebRTC, FastAPI | 🔥 Beta |
-| 🎵 **Music Event Tracker** | Spotify + Last.fm concert tracking | Python, FastAPI, APIs | ✅ Live |
+| 🤖 **[Job Application Automator](https://github.com/ajay-automates/job-application-automator)** | AI agent with RAG achieving 92% accuracy in form filling | Claude API, RAG, Vector Embeddings, Playwright | ⚡ Active |
+| 📱 **[Social Media AI SaaS](https://github.com/ajay-automates/social-media-automator)** | LLM-powered multi-platform content automation | GPT-4, Claude, Prompt Engineering | 🚀 Launched |
+| 🎭 **Interactive AI Avatar** | Real-time conversational AI with video avatars | LLMs, Tavus CVI, WebRTC, Streaming | 🔥 Beta |
+| 🎵 **Music Event AI Tracker** | Intelligent concert tracking with API integration | NLP, Entity Extraction, Spotify/Last.fm APIs | ✅ Live |
 
 </div>
 
 ---
 
-## 💼 Professional Journey
+## 💼 Experience & Background
 
 <details>
-<summary><b>🏢 DevOps Engineer @ FolderWave</b> (EdTech - 10,000+ schools)</summary>
+<summary><b>🏢 AI & Automation Engineer @ FolderWave</b> (EdTech - 10,000+ schools)</summary>
 <br/>
 
-- 🔧 Peterson Scholarship API automation
-- 💾 Common App database management (millions of records)
-- 📊 SendGrid monitoring dashboards
-- 🌐 O*NET career data systems integration
-- ⚡ Reduced deployment time by 60%
-- 🔐 Implemented zero-downtime deployments
+- 🤖 Built AI-powered API automation systems
+- 💾 Engineered data pipelines processing millions of records
+- 📊 Created intelligent monitoring dashboards
+- 🔄 Automated complex workflows with ML-driven optimization
+- ⚡ Reduced processing time by 60% using intelligent automation
+- 🎯 Implemented predictive systems for proactive maintenance
 
 </details>
 
 **🎓 Education:** MS Software Engineering - Northeastern University  
-**💪 Experience:** 4+ years in software development & automation  
-**🎯 Current:** Transitioning to AI Engineering roles
+**💪 Experience:** 4+ years in AI/ML & Software Engineering  
+**🎯 Current:** Building production AI systems & LLM applications
 
 ---
 
@@ -150,43 +165,43 @@ const ajay = {
 
 ---
 
-## 🎵 Beyond Code
+## 🎵 Beyond AI Engineering
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-### 🎧 Music & Events
-- Active in Tampa's hard techno scene
-- Early Omi Creator Program adopter
-- Building music event tracking tools
+### 🎧 Music & Tech
+- Active in Tampa's electronic music scene
+- Early Omi AI wearable adopter
+- Building AI-powered event tracking
 
 </td>
 <td align="center" width="50%">
 
-### 🚀 Building Philosophy
+### 🚀 AI Philosophy
 - MVP over perfection
 - Ship fast, iterate faster
 - AI-first automation
-- Open source contributor
+- Open source AI tools
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### 📹 Content Creation
+### 📹 AI Content Creation
 - AI-focused Instagram Reels
-- Video editing automation
-- Exploring Veo 3.1, HeyGen
+- LLM-powered video automation
+- Exploring Veo 3.1, HeyGen, Sora
 
 </td>
 <td align="center" width="50%">
 
-### 🎮 Tech Exploration
-- VR/XR for development
-- Claude Code CLI power user
-- Cursor IDE enthusiast
+### 🎮 Emerging Tech
+- AI coding assistants (Claude Code, Cursor)
+- VR/XR for immersive AI interfaces
+- Exploring multimodal AI systems
 
 </td>
 </tr>
@@ -210,19 +225,20 @@ const ajay = {
 
 <div align="center">
 
-### 💭 Current Focus
+### 💭 Current AI Focus
 
 ```ascii
 ┌─────────────────────────────────────────────────┐
-│  🎯 Y Combinator Application                    │
-│  🚀 100xEngineers Program                       │
-│  🎵 Omi Creator Program                         │
-│  💼 AI Engineering Job Search                   │
-│  📹 AI Video Content Creation                   │
+│  🤖 Building Production LLM Applications        │
+│  🧠 RAG Systems & Vector Search                 │
+│  🔄 AI Agents & Agentic Workflows              │
+│  🎯 Prompt Engineering & Fine-tuning            │
+│  📹 Multimodal AI & Video Generation           │
+│  🎵 Omi AI Wearable Creator Program            │
 └─────────────────────────────────────────────────┘
 ```
 
-### 🏃‍♂️ "Build fast. Ship faster. Iterate fastest."
+### 🏃‍♂️ "AI-first. Build fast. Ship faster. Iterate fastest."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
@@ -246,7 +262,9 @@ const ajay = {
 
 <div align="center">
 
-**💡 Open to collaborations, opportunities, and crazy AI projects!**
+**🤖 Open to AI/ML collaborations, research opportunities, and innovative AI projects!**
+
+**Keywords:** *AI Engineer, LLM Engineer, Machine Learning, RAG, Vector Databases, Prompt Engineering, AI Agents, Fine-tuning, Claude, GPT-4, LangChain, Embeddings, Neural Networks, Deep Learning, NLP, Computer Vision, Generative AI*
 
 **Made with 💜 by Ajay | Last Updated: Feb 2026**
 
