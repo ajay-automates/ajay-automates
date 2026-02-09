@@ -91,17 +91,10 @@ const ajay = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-automates&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-automates&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajay_automates&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-automates&theme=radical&utcOffset=8" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-automates&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ff6b6b&area=true&hide_border=true" width="98%"/>
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -124,7 +117,7 @@ const ajay = {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 **[Job Application Automator](https://github.com/ajay-automates/job-application-automator)** | Intelligent MCP system with 92% accuracy | Python, FastAPI, Playwright, Claude API | ⚡ Active |
-| 📱 **Social Media SaaS** | Multi-platform automation with tiered pricing | Node.js, Supabase, Railway, Meta API | 🚀 Launched |
+| 📱 **[Social Media Automator](https://github.com/ajay-automates/social-media-automator)** | Multi-platform automation with tiered pricing | Node.js, Supabase, Railway, Meta API | 🚀 Launched |
 | 🎭 **Interactive Avatar System** | Real-time conversational AI avatars | Tavus CVI, WebRTC, FastAPI | 🔥 Beta |
 | 🎵 **Music Event Tracker** | Spotify + Last.fm concert tracking | Python, FastAPI, APIs | ✅ Live |
 
@@ -157,11 +150,8 @@ const ajay = {
 
 <div align="center">
 
-<!-- GitHub Contribution Graph -->
+<!-- Contribution Heatmap -->
 <img src="https://ghchart.rshah.org/8B5CF6/ajay-automates" alt="Contribution Graph" width="90%"/>
-
-<!-- 3D Contribution Graph -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=ajay-automates&theme=radical" width="90%"/>
 
 </div>
 
@@ -245,12 +235,17 @@ const ajay = {
 
 </div>
 
-<!-- Snake eating contributions -->
+---
+
 <div align="center">
-  
+
 ### 👾 Watch the snake eat my contributions!
 
-![Snake animation](https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -260,6 +255,6 @@ const ajay = {
 
 **💡 Open to collaborations, opportunities, and crazy AI projects!**
 
-![Visitor Count](https://profile-counter.glitch.me/ajay-automates/count.svg)
+**Made with 💜 by Ajay | Last Updated: Feb 2026**
 
 </div>
