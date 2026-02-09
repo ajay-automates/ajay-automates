@@ -91,20 +91,10 @@ const ajay = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-automates&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-automates&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-automates&theme=radical&utcOffset=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-automates&theme=radical&utcOffset=-5" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-automates&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ff6b6b&area=true&hide_border=true" width="98%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajay-automates&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -146,12 +136,15 @@ const ajay = {
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Insights
 
 <div align="center">
 
-<!-- Contribution Heatmap -->
-<img src="https://ghchart.rshah.org/8B5CF6/ajay-automates" alt="Contribution Graph" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-automates&theme=radical" width="98%"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-automates&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-automates&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-automates&theme=radical" />
 
 </div>
 
