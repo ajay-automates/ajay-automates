@@ -106,6 +106,7 @@ const ajay = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-automates&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-automates&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=10" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ajay-automates&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&combine_all_yearly_contributions=true" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-automates&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ff6b6b&area=true&hide_border=true" width="98%"/>
