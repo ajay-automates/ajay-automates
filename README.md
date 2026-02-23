@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF8C00,FFA000,4A2300&height=180&section=header&text=AJAY%20KUMAR%20REDDY%20NELAVETLA&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=AI+Architect+%E2%80%A2+Agentic+Workflows+%E2%80%A2+LLM+Specialist;Building+Cognitive+Automation+Systems;RAG+%E2%80%A2+Neural+Search+%E2%80%A2+Multi-Agent+Orchestration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=AI+Engineer+%E2%80%A2+LLM+Fine-Tuning+%E2%80%A2+Model+Serving;QLoRA+%E2%80%A2+RAG+%E2%80%A2+LLMOps+%E2%80%A2+Agentic+Systems;Building+Production+AI+%E2%80%94+From+Training+to+Deployment" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -21,58 +21,79 @@
 ```typescript
 /**
  * @profile Ajay Kumar Reddy Nelavetla
- * @focus Engineering the next generation of Agentic AI
+ * @focus Full-stack AI Engineer — from fine-tuning to production deployment
+ * @updated February 2026
  */
 const ajay = {
-    role: "Lead AI Engineer & Agentic Systems Architect",
-    specialization: {
-        reasoning: ["CoT (Chain of Thought)", "ReAct", "Reflection"],
-        memory: ["Vector RAG", "GraphRAG", "Long-term Neural Memory"],
-        action: ["Tool Use", "Automated Web Interaction", "Multi-Agent Swarms", "OpenClaw"]
+    role: "AI Engineer & MLOps Architect",
+    expertise: {
+        fine_tuning: ["QLoRA", "4-bit Quantization", "Gemma 3", "Llama", "Unsloth"],
+        rag: ["LangChain", "ChromaDB", "Vector Search", "Document QA"],
+        llmops: ["LangSmith Tracing", "Prompt Versioning", "A/B Testing", "Guardrails"],
+        model_serving: ["FastAPI", "Docker", "CLIP", "Self-hosted Inference", "Batch Processing"],
+        agents: ["Multi-Agent Orchestration", "Tool Use", "Browser Automation", "ReAct"],
+        ci_cd: ["GitHub Actions", "Automated Code Review", "Cost Monitoring"]
     },
-    currentStack: {
-        foundational: ["Claude 3.5 Sonnet", "GPT-4o", "DeepSeek-V3", "Llama 3.1"],
-        orchestration: ["LangChain", "CrewAI", "PydanticAI", "OpenClaw"],
-        knowledge: ["Pinecone", "Milvus", "Weaviate", "Neo4j"]
+    deployed_systems: {
+        "Resume Analyzer": "QLoRA fine-tuned Gemma 3 4B — 60% OOD accuracy, honest evaluation",
+        "AI Code Review Bot": "Automated PR reviews via Claude + GitHub Actions — catches 8/8 bugs",
+        "AI Support Agent": "RAG chatbot with LangSmith observability — live at Streamlit Cloud",
+        "Image Classifier API": "Self-hosted CLIP inference via FastAPI + Docker — $0/request",
+        "Social Media Automator": "6+ AI agents, 13 platform integrations — full SaaS product"
     },
-    building: {
-        "Auto-Apply Agent": "End-to-end cognitive browser automation",
-        "Gmail-Notion Orchestrator": "Neural mail processing & knowledge extraction",
-        "Multi-Agent OS": "System for parallel LLM task execution"
-    },
-    motto: "Why manually when AI can autonomously?"
+    philosophy: "Ship it. Measure it. Improve it. Repeat."
 };
 ```
+
+---
+
+## 🚀 Featured Projects (All Live & Deployed)
+
+<div align="center">
+
+| Project | What It Does | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Resume Analyzer** | QLoRA fine-tuned Gemma 3 for resume-job fit classification | QLoRA, Gemma 3 4B, Unsloth, HuggingFace | [GitHub](https://github.com/ajay-automates/advanced-resume-analyzer-qlora) - [Model](https://huggingface.co/ajaykumarreddynelavetla/resume-analyzer-gemma3-qlora) |
+| **AI Code Review Bot** | Automated PR reviews that catch security bugs via CI/CD | Claude API, GitHub Actions, Docker | [GitHub](https://github.com/ajay-automates/ai-code-review-bot) - [Live PR](https://github.com/ajay-automates/ai-code-review-bot/pull/1) |
+| **AI Support Agent** | Upload docs, get AI chatbot with source citations + LangSmith | LangChain, ChromaDB, LangSmith, Claude, Streamlit | [GitHub](https://github.com/ajay-automates/ai-support-agent) - [Live App](https://ai-agent-support.streamlit.app) |
+| **Image Classifier API** | Self-hosted CLIP model serving — zero API cost per request | FastAPI, CLIP, PyTorch, Docker | [GitHub](https://github.com/ajay-automates/ai-image-classifier-api) - [Live API](https://huggingface.co/spaces/ajaykumarreddynelavetla/ai-image-classifier-api) |
+| **Social Media Automator** | 6 AI agents, 13 platforms, full SaaS with billing & OAuth | Node.js, Claude, Supabase, 13 platform APIs | [GitHub](https://github.com/ajay-automates/social-media-automator) |
+| **Job Application Automator** | MCP server for autonomous job applications | MCP, Browser Automation, Claude | [GitHub](https://github.com/ajay-automates/job-application-automator-mcp) |
+
+</div>
 
 ---
 
 ## 🛠️ Intelligence Stack
 <div align="center">
 
-### 🧠 LLM Orchestration & Frameworks
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
-![PydanticAI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+### 🧠 LLM Fine-Tuning & Training
+![QLoRA](https://img.shields.io/badge/QLoRA-FF6B6B?style=for-the-badge)
+![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=for-the-badge)
+![Gemma 3](https://img.shields.io/badge/Gemma_3-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-9B59B6?style=for-the-badge)
 
-### 🗄️ Vector Intelligence & RAG
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+### 🔗 RAG & LLM Orchestration
+![Anthropic Claude](https://img.shields.io/badge/Claude_API-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF8C00?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-00DED1?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase_Vector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🚀 Model Serving & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ⚙️ Agentic Automation
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF8C00?style=for-the-badge&logo=github&logoColor=white)
-![Playwright](https://img.shields.io/badge/Browser_Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Agent_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangSmith](https://img.shields.io/badge/Agent_Tracing-1C3C3C?style=for-the-badge)
-
-### 🕶️ Wearable AI & Spatial Compute
-![Meta Ray-Bans](https://img.shields.io/badge/Meta_Ray--Bans-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Meta Quest XR](https://img.shields.io/badge/Meta_Quest_XR-000000?style=for-the-badge&logo=meta&logoColor=white)
-![Embedded AI](https://img.shields.io/badge/Embedded_Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP_Servers-FF8C00?style=for-the-badge)
+![Browser Automation](https://img.shields.io/badge/Browser_Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-E92063?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -86,47 +107,44 @@ const ajay = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-automates&layout=compact&theme=radical&title_color=FF8C00&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=10" />
 
-<!-- Activity Graph representing AI compute cycles -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-automates&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FFD700&area=true&hide_border=true" width="98%"/>
 
 </div>
 
 ---
 
-## 🎯 Featured Autonomous Systems
+## 🎯 What I Can Build (Proven with Live Projects)
+
 <div align="center">
 
-| System | Intelligent Function | Status |
-|---------|-------------|--------|
-| 🤖 **Agentic Job Automator** | Deep RAG + Browser Actions for 100% autonomous employment workflows | ⚡ High Compute |
-| 🛡️ **Neural Privacy Layer** | LLM-based redaction and ethical guardrails for production APIs | 🚀 Deployed |
-| 📊 **Sentiment Swarm** | Multi-agent network analyzing market trends via social web-scraping | 🔥 Active |
-| 📹 **Cognitive Video Creator** | Generative AI pipeline for automated content assembly & narration | ✅ Live |
+```
+FINE-TUNE a model         ──→  Resume Analyzer (QLoRA + Gemma 3)
+SERVE it yourself         ──→  Image Classifier API (FastAPI + CLIP + Docker)  
+BUILD a RAG pipeline      ──→  AI Support Agent (LangChain + ChromaDB)
+ADD observability         ──→  LangSmith tracing on every request
+AUTOMATE CI/CD            ──→  AI Code Review Bot (GitHub Actions)
+DEPLOY for $0             ──→  HuggingFace Spaces + Streamlit Cloud
+SHIP a SaaS product       ──→  Social Media Automator (6 agents, 13 platforms)
+```
 
 </div>
 
 ---
 
-## 💼 Agentic Journey
-<details>
-<summary><b>🏢 FolderWave | AI & Automation Core</b></summary>
-<br/>
+## 💼 Background
 
-- 🧠 Designed the "FolderWave AI" transition, moving legacy systems to modern LLM-driven architectures.
-- ⚡ Implemented Agentic RAG systems for processing millions of student records with pinpoint accuracy.
-- 🔄 Built custom GPT/Claude toolchains for automated data validation and predictive anomaly detection.
-</details>
+**MS Software Engineering** - Northeastern University (Focus: Distributed Intelligence)
 
-**🎓 Research:** MS Software Engineering - Northeastern University (Focus: Distributed Intelligence)  
-**💪 Compute Time:** 4+ years building production-grade AI & Automation  
-**🎯 Current:** Architecting the layer where LLMs meet real-world action APIs.
+**4+ years** building production-grade AI & Automation systems
+
+Currently: Shipping AI products that work in the real world, not just notebooks.
 
 ---
 
 ## 📈 Contribution Pulse
 <div align="center">
 
-<img src="https://ghchart.rshah.org/FF8C00/ajay-automates" alt="Neural Pulse Graph" width="90%"/>
+<img src="https://ghchart.rshah.org/FF8C00/ajay-automates" alt="Contribution Graph" width="90%"/>
 
 </div>
 
@@ -134,22 +152,11 @@ const ajay = {
 
 <div align="center">
 
-### 💡 The AI Roadmap
-```ascii
-┌─────────────────────────────────────────────────────┐
-│  🚀 Scaling Autonomous Multi-Agent Swarms            │
-│  🧠 Integrating GraphRAG for Deep Context           │
-│  🔄 Self-Correcting Browser Automation              │
-│  🎯 Sub-1s Latency Neural Inference                 │
-│  📹 Multimodal Video Generation (HeyGen/Sora)       │
-└─────────────────────────────────────────────────────┘
-```
-
-### 👾 Contribution Snake (Autonomous Feed)
+### 👾 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating nodes" src="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
+  <img alt="Snake" src="https://raw.githubusercontent.com/ajay-automates/ajay-automates/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -158,10 +165,10 @@ const ajay = {
 
 <div align="center">
 
-**🤖 Training for collaboration. Open to Agentic AI, RAG & LLM Infra projects.**
+**Open to: AI Engineering, MLOps, LLM Infrastructure, and Production AI roles.**
 
-**Tags:** *Agentic AI, LLM Architect, RAG, GraphRAG, Multi-Agent Systems, PydanticAI, LangChain, VectorDB, Neural Search, Automation, Python, TypeScript*
+**Stack:** *QLoRA, LangChain, LangSmith, FastAPI, Docker, CLIP, ChromaDB, Claude API, GitHub Actions, Streamlit, PyTorch, HuggingFace*
 
-**Architected with 🧡 by Ajay | v2.0 AI-Core Revision**
+**Architected with 🧡 by Ajay | v3.0 — Production AI Revision**
 
 </div>
